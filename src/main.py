@@ -122,7 +122,7 @@ print("Bit Error Rate (BER):", ber)
 # BER vs NOISE ANALYSIS
 # =====================================
 
-#USED WHEN num_bits = 20
+#USED WHEN num_bits is very very small
 '''
 noise_std_values = np.linspace(0.1, 2.0, 10)
 ber_values = []
@@ -157,7 +157,7 @@ plt.grid(True)
 plt.show()
 '''
 
-#USED WHEN num_bits = 10000
+#USED WHEN num_bits is very high
 noise_std_values = np.linspace(0.1, 2.0, 10)
 ber_values = []
 
