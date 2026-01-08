@@ -57,16 +57,20 @@ This project also serves as a foundation for more advanced topics such as higher
 
 ```
 Digital_Comm_Project/
-├── README.md
+│
 ├── src/
-│   └── main.py
 ├── plots/
-│   ├── ber_N100
-│   ├── ber_N500
-│   ├── ber_N1000
-│   ├── ber_N10000
 ├── report/
 │   └── project_paper.md
+│
+├── notes/
+│   ├── handwritten_notes_page1.jpg
+│   ├── handwritten_notes_page2.jpg
+│   ├── handwritten_notes_page3.jpg
+│   └── README.md
+│
+└── README.md
+
 ```
 
 ---
